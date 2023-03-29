@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1679655243 source:c:\programeren\tilhulp\fuse.c
+	<avr/io.h>
+
+1601561593 source:c:\programeren\tilhulp\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1679657735 c:\programeren\tilhulp\h_bridge.h
+
+1679992795 source:c:\programeren\tilhulp\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1679991225 c:\programeren\tilhulp\servo.h
+
+1680090732 source:c:\programeren\tilhulp\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"h_bridge.h"
+	"h_bridge_2.h"
+
+1680091050 source:c:\programeren\tilhulp\h_bridge_2.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge_2.h"
+
+1680091009 c:\programeren\tilhulp\h_bridge_2.h
+
